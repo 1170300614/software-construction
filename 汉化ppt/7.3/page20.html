@@ -1,0 +1,69 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">
+.txt { white-space:nowrap; }
+#f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f13 { font-family:sans-serif; font-weight:bold; font-style:normal; }
+#f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f15 { font-family:sans-serif; font-weight:bold; font-style:normal; }
+#f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f38 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f39 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f40 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+</style>
+</head>
+<body>
+<img id="background" style="position:absolute; left:0px; top:0px;" width="1440" height="1080" src="page20.png">
+<div class="txt" style="position:absolute; left:33px; top:107px;"><span id="f8" style="font-size:60px;vertical-align:baseline;color:rgba(0,0,0,1);">When to use assertions?</span></div>
+<div class="txt" style="position:absolute; left:804px; top:18px;"><span id="f8" style="font-size:31px;vertical-align:baseline;color:rgba(0,0,0,1);">7.3 Assertions and Defensive Programming</span></div>
+<div class="txt" style="position:absolute; left:76px; top:247px;"><span id="f11" style="font-size:40px;vertical-align:baseline;color:rgba(255,130,44,1);">▪ </span><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">Normally, you don’t want users to see assertion messages in</span></div>
+<div class="txt" style="position:absolute; left:112px; top:297px;"><span id="f15" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">production code; assertions are primarily for use during</span></div>
+<div class="txt" style="position:absolute; left:112px; top:345px;"><span id="f15" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">development and maintenance.</span></div>
+<div class="txt" style="position:absolute; left:76px; top:415px;"><span id="f11" style="font-size:40px;vertical-align:baseline;color:rgba(255,130,44,1);">▪ </span><span id="f15" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">Assertions are normally compiled into the code at development</span></div>
+<div class="txt" style="position:absolute; left:112px; top:465px;"><span id="f15" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">time and compiled out of the code for production. During</span></div>
+<div class="txt" style="position:absolute; left:112px; top:513px;"><span id="f15" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">development, assertions flush out contradictory assumptions,</span></div>
+<div class="txt" style="position:absolute; left:112px; top:556px;"><span id="f15" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">unexpected conditions, bad values passed to routines, and so on. </span><span id="f24" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,255,1);">在</span></div>
+<div class="txt" style="position:absolute; left:112px; top:604px;"><span id="f24" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,255,1);">开发和调试阶段使用断言，帮助发现错误和异常。</span></div>
+<div class="txt" style="position:absolute; left:76px; top:679px;"><span id="f11" style="font-size:40px;vertical-align:baseline;color:rgba(255,130,44,1);">▪ </span><span id="f15" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">During production, they are compiled out of the code so that the</span></div>
+<div class="txt" style="position:absolute; left:112px; top:724px;"><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">assertions don’t degrade system performance. </span><span id="f24" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,255,1);">在发布时禁用断言，</span></div>
+<div class="txt" style="position:absolute; left:112px; top:772px;"><span id="f24" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,255,1);">避免影响性能。</span></div>
+<div class="txt" style="position:absolute; left:76px; top:847px;"><span id="f11" style="font-size:40px;vertical-align:baseline;color:rgba(255,130,44,1);">▪ </span><span id="f15" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">When should you write runtime assertions? As you write the code,</span></div>
+<div class="txt" style="position:absolute; left:112px; top:897px;"><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">not after the fact. When you’re writing the code, you have the</span></div>
+<div class="txt" style="position:absolute; left:112px; top:945px;"><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">invariants in mind. If you postpone writing assertions, you’re less</span></div>
+<div class="txt" style="position:absolute; left:112px; top:993px;"><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">likely to do it, and you’re liable to omit some important invariants.</span></div>
+</body>
+</html>

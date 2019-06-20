@@ -1,0 +1,59 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">
+.txt { white-space:nowrap; }
+#f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f15 { font-family:sans-serif; font-weight:bold; font-style:normal; }
+#f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+</style>
+</head>
+<body>
+<img id="background" style="position:absolute; left:0px; top:0px;" width="1440" height="1080" src="page59.png">
+<div class="txt" style="position:absolute; left:33px; top:107px;"><span id="f8" style="font-size:60px;vertical-align:baseline;color:rgba(0,0,0,1);">Avoid Global Variables</span></div>
+<div class="txt" style="position:absolute; left:899px; top:18px;"><span id="f8" style="font-size:31px;vertical-align:baseline;color:rgba(0,0,0,1);">10.1 Concurrency and Thread-Safety</span></div>
+<div class="txt" style="position:absolute; left:76px; top:244px;"><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(255,130,44,1);">▪ </span><span id="f15" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">Global static variables are not automatically thread confined. </span><span id="f18" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,255,1);">全局</span></div>
+<div class="txt" style="position:absolute; left:112px; top:292px;"><span id="f18" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,255,1);">静态变量不会自动受到线程访问限制</span></div>
+<div class="txt" style="position:absolute; left:112px; top:362px;"><span id="f22" style="font-size:36px;vertical-align:baseline;color:rgba(255,130,44,1);">– </span><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">If you have static variables in your program, then you have to make an</span></div>
+<div class="txt" style="position:absolute; left:148px; top:405px;"><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">argument that only one thread will ever use them, and you have to</span></div>
+<div class="txt" style="position:absolute; left:148px; top:445px;"><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">document that fact clearly. </span><span id="f18" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,255,1);">如果使用了全局静态变量，则应说明只允</span></div>
+<div class="txt" style="position:absolute; left:148px; top:493px;"><span id="f18" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,255,1);">许一个线程使用它们</span></div>
+<div class="txt" style="position:absolute; left:76px; top:565px;"><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(255,130,44,1);">▪ </span><span id="f15" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">Better, you should eliminate the static variables entirely. </span><span id="f18" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,255,1);">在多线程</span></div>
+<div class="txt" style="position:absolute; left:112px; top:613px;"><span id="f18" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,255,1);">环境中，取消全局变量</span></div>
+</body>
+</html>

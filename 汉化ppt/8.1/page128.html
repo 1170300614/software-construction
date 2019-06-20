@@ -1,0 +1,55 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">
+.txt { white-space:nowrap; }
+#f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f17 { font-family:sans-serif; font-weight:bold; font-style:normal; }
+#f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+</style>
+</head>
+<body>
+<img id="background" style="position:absolute; left:0px; top:0px;" width="1440" height="1080" src="page128.png">
+<div class="txt" style="position:absolute; left:33px; top:107px;"><span id="f8" style="font-size:60px;vertical-align:baseline;color:rgba(0,0,0,1);">Buffer</span></div>
+<div class="txt" style="position:absolute; left:426px; top:17px;"><span id="f8" style="font-size:31px;vertical-align:baseline;color:rgba(0,0,0,1);">8.1 Metrics, Principles, and Methods of Construction for Performance</span></div>
+<div class="txt" style="position:absolute; left:76px; top:247px;"><span id="f11" style="font-size:40px;vertical-align:baseline;color:rgba(255,130,44,1);">▪ </span><span id="f8" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">Buffers are typically used when there is a difference between the rate</span></div>
+<div class="txt" style="position:absolute; left:112px; top:297px;"><span id="f8" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">at which data is received and the rate at which it can be processed, or</span></div>
+<div class="txt" style="position:absolute; left:112px; top:345px;"><span id="f8" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">in the case that these rates are variable, for example in a printer</span></div>
+<div class="txt" style="position:absolute; left:112px; top:388px;"><span id="f8" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">spooler or in online video streaming</span><span id="f17" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">. </span><span id="f20" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,255,1);">缓冲区通常用于接收数据的速率</span></div>
+<div class="txt" style="position:absolute; left:112px; top:439px;"><span id="f20" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,255,1);">与处理数据速率之间存在较大差异的情况下，或者在速率可变的情况</span></div>
+<div class="txt" style="position:absolute; left:112px; top:484px;"><span id="f20" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,255,1);">下（例如打印机池或在线视频流）。</span></div>
+<div class="txt" style="position:absolute; left:76px; top:559px;"><span id="f11" style="font-size:40px;vertical-align:baseline;color:rgba(255,130,44,1);">▪ </span><span id="f20" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,255,1);">上层应用组件不需要等待下层组件真实地接受全部数据，即可返回操</span></div>
+<div class="txt" style="position:absolute; left:112px; top:604px;"><span id="f20" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,255,1);">作，加快了上层组件的处理速度，从而提升系统整体性能。</span></div>
+</body>
+</html>

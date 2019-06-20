@@ -1,0 +1,68 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">
+.txt { white-space:nowrap; }
+#f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f38 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f39 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f40 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+</style>
+</head>
+<body>
+<img id="background" style="position:absolute; left:0px; top:0px;" width="1440" height="1080" src="page27.png">
+<div class="txt" style="position:absolute; left:33px; top:107px;"><span id="f8" style="font-size:60px;vertical-align:baseline;color:rgba(0,0,0,1);">Avoid Magic Numbers</span></div>
+<div class="txt" style="position:absolute; left:985px; top:18px;"><span id="f8" style="font-size:31px;vertical-align:baseline;color:rgba(0,0,0,1);">9.1 Code Smells </span><span id="f10" style="font-size:31px;vertical-align:baseline;color:rgba(0,0,0,1);"> </span><span id="f8" style="font-size:31px;vertical-align:baseline;color:rgba(0,0,0,1);">Refactoring</span></div>
+<div class="txt" style="position:absolute; left:76px; top:247px;"><span id="f14" style="font-size:40px;vertical-align:baseline;color:rgba(255,130,44,1);">▪ </span><span id="f8" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">There are really only two constants that computer scientists</span></div>
+<div class="txt" style="position:absolute; left:112px; top:297px;"><span id="f8" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">recognize as valid in and of themselves: 0, 1, and maybe 2.</span></div>
+<div class="txt" style="position:absolute; left:76px; top:367px;"><span id="f14" style="font-size:40px;vertical-align:baseline;color:rgba(255,130,44,1);">▪ </span><span id="f8" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">All other constants are called </span><span id="f20" style="font-size:26px;vertical-align:baseline;color:rgba(255,0,0,1);">magic </span><span id="f8" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">because they appear as if out of</span></div>
+<div class="txt" style="position:absolute; left:112px; top:417px;"><span id="f8" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">thin air with no explanation.</span></div>
+<div class="txt" style="position:absolute; left:76px; top:487px;"><span id="f14" style="font-size:40px;vertical-align:baseline;color:rgba(255,130,44,1);">▪ </span><span id="f8" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">One way to explain a number is with a comment, or to declare the</span></div>
+<div class="txt" style="position:absolute; left:112px; top:537px;"><span id="f8" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">number as a named constant with a good, clear name.</span></div>
+<div class="txt" style="position:absolute; left:112px; top:602px;"><span id="f27" style="font-size:36px;vertical-align:baseline;color:rgba(255,130,44,1);">– </span><span id="f29" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">2, …, 12 would be far more readable as FEBRUARY, …, DECEMBER.</span></div>
+<div class="txt" style="position:absolute; left:112px; top:662px;"><span id="f27" style="font-size:36px;vertical-align:baseline;color:rgba(255,130,44,1);">– </span><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">30, 31, 28 would be more readable if they were in a data structure like an</span></div>
+<div class="txt" style="position:absolute; left:148px; top:705px;"><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">array, list, or map, e.g. MONTH_LENGTH[month].</span></div>
+<div class="txt" style="position:absolute; left:112px; top:766px;"><span id="f27" style="font-size:36px;vertical-align:baseline;color:rgba(255,130,44,1);">– </span><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">The mysterious numbers 59 and 90 are particularly pernicious examples of</span></div>
+<div class="txt" style="position:absolute; left:148px; top:809px;"><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">magic numbers. Not only are they uncommented and undocumented,</span></div>
+<div class="txt" style="position:absolute; left:148px; top:852px;"><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">they are actually the result of a computation done by hand by the</span></div>
+<div class="txt" style="position:absolute; left:148px; top:896px;"><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">programmer. Explicit computations like 31 + 28 make the provenance of</span></div>
+<div class="txt" style="position:absolute; left:148px; top:939px;"><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">these mysterious numbers much clearer.</span></div>
+</body>
+</html>

@@ -1,0 +1,62 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">
+.txt { white-space:nowrap; }
+#f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f13 { font-family:sans-serif; font-weight:bold; font-style:normal; }
+#f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+</style>
+</head>
+<body>
+<img id="background" style="position:absolute; left:0px; top:0px;" width="1440" height="1080" src="page159.png">
+<div class="txt" style="position:absolute; left:426px; top:17px;"><span id="f8" style="font-size:31px;vertical-align:baseline;color:rgba(0,0,0,1);">8.1 Metrics, Principles, and Methods of Construction for Performance</span></div>
+<div class="txt" style="position:absolute; left:33px; top:107px;"><span id="f8" style="font-size:60px;vertical-align:baseline;color:rgba(0,0,0,1);">Scatter/Gather</span></div>
+<div class="txt" style="position:absolute; left:76px; top:247px;"><span id="f11" style="font-size:40px;vertical-align:baseline;color:rgba(255,130,44,1);">▪ </span><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">Often called vectored I/O, this just means you can pass an array of</span></div>
+<div class="txt" style="position:absolute; left:112px; top:297px;"><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">buffers to a read or write operation; the overloaded channel</span></div>
+<div class="txt" style="position:absolute; left:112px; top:345px;"><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">instance methods have signatures:</span></div>
+<div class="txt" style="position:absolute; left:112px; top:410px;"><span id="f17" style="font-size:36px;vertical-align:baseline;color:rgba(255,130,44,1);">– </span><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">long read(ByteBuffer [] dsts)</span></div>
+<div class="txt" style="position:absolute; left:112px; top:470px;"><span id="f17" style="font-size:36px;vertical-align:baseline;color:rgba(255,130,44,1);">– </span><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">long read(ByteBuffer [] dsts, int offset, int length)</span></div>
+<div class="txt" style="position:absolute; left:112px; top:531px;"><span id="f17" style="font-size:36px;vertical-align:baseline;color:rgba(255,130,44,1);">– </span><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">long write(ByteBuffer [] srcs)</span></div>
+<div class="txt" style="position:absolute; left:112px; top:591px;"><span id="f17" style="font-size:36px;vertical-align:baseline;color:rgba(255,130,44,1);">– </span><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">long write(ByteBuffer [] srcs, int offset, int length)</span></div>
+<div class="txt" style="position:absolute; left:76px; top:657px;"><span id="f11" style="font-size:40px;vertical-align:baseline;color:rgba(255,130,44,1);">▪ </span><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">The first form of read() attempts to read enough data to fill all</span></div>
+<div class="txt" style="position:absolute; left:112px; top:707px;"><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">buffers in the array, and divides it between them, in order.</span></div>
+<div class="txt" style="position:absolute; left:76px; top:777px;"><span id="f11" style="font-size:40px;vertical-align:baseline;color:rgba(255,130,44,1);">▪ </span><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">The first form of write() attempts to concatenate the remaining data</span></div>
+<div class="txt" style="position:absolute; left:112px; top:827px;"><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">in all buffers and write it.</span></div>
+<div class="txt" style="position:absolute; left:112px; top:892px;"><span id="f17" style="font-size:36px;vertical-align:baseline;color:rgba(255,130,44,1);">– </span><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">The arguments offset and length select a subset of buffers from the arrays</span></div>
+<div class="txt" style="position:absolute; left:148px; top:935px;"><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">(not, say, an interval within buffers).</span></div>
+</body>
+</html>

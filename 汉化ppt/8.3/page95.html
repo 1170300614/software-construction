@@ -1,0 +1,54 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">
+.txt { white-space:nowrap; }
+#f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+</style>
+</head>
+<body>
+<img id="background" style="position:absolute; left:0px; top:0px;" width="1440" height="1080" src="page95.png">
+<div class="txt" style="position:absolute; left:749px; top:11px;"><span id="f8" style="font-size:31px;vertical-align:baseline;color:rgba(0,0,0,1);">8.3 Code Tuning for Performance Optimization</span></div>
+<div class="txt" style="position:absolute; left:33px; top:102px;"><span id="f8" style="font-size:60px;vertical-align:baseline;color:rgba(0,0,0,1);">Unswitching-</span><span id="f12" style="font-size:60px;vertical-align:baseline;color:rgba(0,0,0,1);">将判断外提</span></div>
+<div class="txt" style="position:absolute; left:76px; top:247px;"><span id="f14" style="font-size:40px;vertical-align:baseline;color:rgba(255,130,44,1);">▪ </span><span id="f16" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">Switching refers to making a decision inside a loop every time it’s</span></div>
+<div class="txt" style="position:absolute; left:112px; top:297px;"><span id="f8" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">executed.</span></div>
+<div class="txt" style="position:absolute; left:76px; top:367px;"><span id="f14" style="font-size:40px;vertical-align:baseline;color:rgba(255,130,44,1);">▪ </span><span id="f16" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">If the decision doesn’t change while the loop is executing, you can</span></div>
+<div class="txt" style="position:absolute; left:112px; top:412px;"><span id="f8" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">unswitch the loop by making the decision outside the loop.</span><span id="f24" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,255,1);">如果在循</span></div>
+<div class="txt" style="position:absolute; left:112px; top:460px;"><span id="f24" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,255,1);">环执行时决策没有改变，可以通过在循环外进行决策来断开循环</span></div>
+<div class="txt" style="position:absolute; left:76px; top:535px;"><span id="f14" style="font-size:40px;vertical-align:baseline;color:rgba(255,130,44,1);">▪ </span><span id="f8" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">Usually this requires turning the loop inside out, putting loops inside</span></div>
+<div class="txt" style="position:absolute; left:112px; top:585px;"><span id="f8" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">the conditional rather than putting the conditional inside the loop.</span></div>
+</body>
+</html>

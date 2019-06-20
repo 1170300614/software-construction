@@ -1,0 +1,68 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">
+.txt { white-space:nowrap; }
+#f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f13 { font-family:sans-serif; font-weight:bold; font-style:normal; }
+#f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f17 { font-family:sans-serif; font-weight:bold; font-style:normal; }
+#f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f38 { font-family:sans-serif; font-weight:bold; font-style:italic; }
+#f39 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f40 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f41 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+</style>
+</head>
+<body>
+<img id="background" style="position:absolute; left:0px; top:0px;" width="1440" height="1080" src="page32.png">
+<div class="txt" style="position:absolute; left:780px; top:18px;"><span id="f8" style="font-size:31px;vertical-align:baseline;color:rgba(0,0,0,1);">9.2 Refactoring Techniques and Tool Support</span></div>
+<div class="txt" style="position:absolute; left:33px; top:107px;"><span id="f8" style="font-size:60px;vertical-align:baseline;color:rgba(0,0,0,1);">Extract Interface</span></div>
+<div class="txt" style="position:absolute; left:76px; top:247px;"><span id="f11" style="font-size:40px;vertical-align:baseline;color:rgba(255,130,44,1);">▪ </span><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">Extract an interface from a class.</span></div>
+<div class="txt" style="position:absolute; left:814px; top:94px;"><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">Several clients use the same subset</span></div>
+<div class="txt" style="position:absolute; left:814px; top:137px;"><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">of a class's interface, or two classes</span></div>
+<div class="txt" style="position:absolute; left:814px; top:180px;"><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">have part of their interfaces in</span></div>
+<div class="txt" style="position:absolute; left:814px; top:224px;"><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">common.</span></div>
+<div class="txt" style="position:absolute; left:814px; top:266px;"><span id="f38" style="font-size:33px;vertical-align:baseline;color:rgba(0,0,0,1);">Extract the subset into an interface.</span></div>
+<div class="txt" style="position:absolute; left:76px; top:319px;"><span id="f11" style="font-size:40px;vertical-align:baseline;color:rgba(255,130,44,1);">▪ </span><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">Some clients may need to know</span></div>
+<div class="txt" style="position:absolute; left:112px; top:369px;"><span id="f17" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">a Customer’s name, while others may only need to know that</span></div>
+<div class="txt" style="position:absolute; left:112px; top:417px;"><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">certain objects can be serialized to XML.</span></div>
+<div class="txt" style="position:absolute; left:76px; top:487px;"><span id="f11" style="font-size:40px;vertical-align:baseline;color:rgba(255,130,44,1);">▪ </span><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">Having </span><span id="f22" style="font-size:26px;vertical-align:baseline;color:rgba(0,0,0,1);">toXml() </span><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">as part of the </span><span id="f22" style="font-size:26px;vertical-align:baseline;color:rgba(0,0,0,1);">Customer </span><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">interface breaks the</span></div>
+<div class="txt" style="position:absolute; left:112px; top:537px;"><span id="f17" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">Interface Segregation design principle which tells us that it’s better</span></div>
+<div class="txt" style="position:absolute; left:112px; top:585px;"><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">to have more specialized interfaces than to have one multi-purpose</span></div>
+<div class="txt" style="position:absolute; left:112px; top:633px;"><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">interface.</span></div>
+</body>
+</html>
