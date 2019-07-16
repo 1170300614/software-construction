@@ -1,0 +1,64 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">
+.txt { white-space:nowrap; }
+#f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f13 { font-family:sans-serif; font-weight:bold; font-style:normal; }
+#f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+</style>
+</head>
+<body>
+<img id="background" style="position:absolute; left:0px; top:0px;" width="1440" height="1080" src="page160.png">
+<div class="txt" style="position:absolute; left:426px; top:17px;"><span id="f8" style="font-size:31px;vertical-align:baseline;color:rgba(0,0,0,1);">8.1 Metrics, Principles, and Methods of Construction for Performance</span></div>
+<div class="txt" style="position:absolute; left:33px; top:107px;"><span id="f8" style="font-size:60px;vertical-align:baseline;color:rgba(0,0,0,1);">SocketChannels</span></div>
+<div class="txt" style="position:absolute; left:76px; top:247px;"><span id="f11" style="font-size:40px;vertical-align:baseline;color:rgba(255,130,44,1);">▪ </span><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">As mentioned at the beginning of this section, socket channels are</span></div>
+<div class="txt" style="position:absolute; left:112px; top:297px;"><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">created directly with their own factory methods</span></div>
+<div class="txt" style="position:absolute; left:112px; top:362px;"><span id="f16" style="font-size:36px;vertical-align:baseline;color:rgba(255,130,44,1);">– </span><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">If you want to manage a socked connection as a NIO channel this is the</span></div>
+<div class="txt" style="position:absolute; left:148px; top:405px;"><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">only option. Creating NIO socket channel implicitly creates a peer</span></div>
+<div class="txt" style="position:absolute; left:148px; top:448px;"><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">java.net socket object, but (contrary to the situation with file handles) the</span></div>
+<div class="txt" style="position:absolute; left:148px; top:491px;"><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">converse is not true.</span></div>
+<div class="txt" style="position:absolute; left:76px; top:557px;"><span id="f11" style="font-size:40px;vertical-align:baseline;color:rgba(255,130,44,1);">▪ </span><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">As with file channels, socket channels can be more complicated to</span></div>
+<div class="txt" style="position:absolute; left:112px; top:607px;"><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">work with than the traditional java.net socket classes, but provide</span></div>
+<div class="txt" style="position:absolute; left:112px; top:655px;"><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">much of the hard-boiled flexibility you get programming sockets</span></div>
+<div class="txt" style="position:absolute; left:112px; top:703px;"><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">in C.</span></div>
+<div class="txt" style="position:absolute; left:76px; top:773px;"><span id="f11" style="font-size:40px;vertical-align:baseline;color:rgba(255,130,44,1);">▪ </span><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">The most notable new facilities are that now socket</span></div>
+<div class="txt" style="position:absolute; left:112px; top:823px;"><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">communications can be non-blocking, they can be interrupted, and</span></div>
+<div class="txt" style="position:absolute; left:112px; top:871px;"><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">there is a selection mechanism that allows a single thread to do</span></div>
+<div class="txt" style="position:absolute; left:112px; top:919px;"><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">multiplex servicing of any number of channels.</span></div>
+</body>
+</html>

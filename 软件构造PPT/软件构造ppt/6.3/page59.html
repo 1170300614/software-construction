@@ -1,0 +1,74 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">
+.txt { white-space:nowrap; }
+#f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f15 { font-family:sans-serif; font-weight:bold; font-style:normal; }
+#f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f29 { font-family:sans-serif; font-weight:bold; font-style:normal; }
+#f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f38 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f39 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f40 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f41 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f42 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+</style>
+</head>
+<body>
+<img id="background" style="position:absolute; left:0px; top:0px;" width="1440" height="1080" src="page59.png">
+<div class="txt" style="position:absolute; left:33px; top:107px;"><span id="f8" style="font-size:60px;vertical-align:baseline;color:rgba(0,0,0,1);">State pattern notes</span></div>
+<div class="txt" style="position:absolute; left:651px; top:18px;"><span id="f8" style="font-size:31px;vertical-align:baseline;color:rgba(0,0,0,1);">6.3 Maintainability-Oriented Construction Techniques</span></div>
+<div class="txt" style="position:absolute; left:76px; top:247px;"><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(255,130,44,1);">▪ </span><span id="f15" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">Can use singletons for instances of each state class</span></div>
+<div class="txt" style="position:absolute; left:112px; top:314px;"><span id="f17" style="font-size:36px;vertical-align:baseline;color:rgba(255,130,44,1);">– </span><span id="f19" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">State objects don’t encapsulate state, so can be shared</span></div>
+<div class="txt" style="position:absolute; left:76px; top:379px;"><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(255,130,44,1);">▪ </span><span id="f15" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">Easy to add new states</span></div>
+<div class="txt" style="position:absolute; left:112px; top:446px;"><span id="f17" style="font-size:36px;vertical-align:baseline;color:rgba(255,130,44,1);">– </span><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">New states can extend other states</span></div>
+<div class="txt" style="position:absolute; left:148px; top:503px;"><span id="f19" style="font-size:31px;vertical-align:baseline;color:rgba(255,130,44,1);">• </span><span id="f8" style="font-size:31px;vertical-align:baseline;color:rgba(0,0,0,1);">Override only selected functions</span></div>
+<div class="txt" style="position:absolute; left:745px; top:530px;"><span id="f27" style="font-size:18px;vertical-align:baseline;color:rgba(0,0,0,1);">class State1 implements State {</span></div>
+<div class="txt" style="position:absolute; left:776px; top:568px;"><span id="f29" style="font-size:28px;vertical-align:baseline;color:rgba(255,0,0,1);">static State1 instance = new State1();</span></div>
+<div class="txt" style="position:absolute; left:776px; top:607px;"><span id="f29" style="font-size:28px;vertical-align:baseline;color:rgba(255,0,0,1);">private State1() {};</span></div>
+<div class="txt" style="position:absolute; left:776px; top:646px;"><span id="f27" style="font-size:18px;vertical-align:baseline;color:rgba(0,0,0,1);">public State move (char c) {</span></div>
+<div class="txt" style="position:absolute; left:823px; top:684px;"><span id="f27" style="font-size:18px;vertical-align:baseline;color:rgba(0,0,0,1);">switch (c) {</span></div>
+<div class="txt" style="position:absolute; left:843px; top:718px;"><span id="f27" style="font-size:18px;vertical-align:baseline;color:rgba(0,0,0,1);">case 'a': return State2.instance;</span></div>
+<div class="txt" style="position:absolute; left:843px; top:751px;"><span id="f27" style="font-size:18px;vertical-align:baseline;color:rgba(0,0,0,1);">case 'b': return State1.instance;</span></div>
+<div class="txt" style="position:absolute; left:843px; top:785px;"><span id="f27" style="font-size:18px;vertical-align:baseline;color:rgba(0,0,0,1);">default: throw new</span></div>
+<div class="txt" style="position:absolute; left:889px; top:819px;"><span id="f27" style="font-size:18px;vertical-align:baseline;color:rgba(0,0,0,1);">IllegalArgumentException();</span></div>
+<div class="txt" style="position:absolute; left:828px; top:857px;"><span id="f27" style="font-size:18px;vertical-align:baseline;color:rgba(0,0,0,1);">}</span></div>
+<div class="txt" style="position:absolute; left:776px; top:896px;"><span id="f27" style="font-size:18px;vertical-align:baseline;color:rgba(0,0,0,1);">}</span></div>
+<div class="txt" style="position:absolute; left:776px; top:935px;"><span id="f27" style="font-size:18px;vertical-align:baseline;color:rgba(0,0,0,1);">public boolean accept() {return false;}</span></div>
+<div class="txt" style="position:absolute; left:745px; top:973px;"><span id="f27" style="font-size:18px;vertical-align:baseline;color:rgba(0,0,0,1);">}</span></div>
+</body>
+</html>

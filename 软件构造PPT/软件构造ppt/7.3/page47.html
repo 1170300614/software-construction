@@ -1,0 +1,68 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">
+.txt { white-space:nowrap; }
+#f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f13 { font-family:sans-serif; font-weight:bold; font-style:normal; }
+#f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f38 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f39 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f40 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f41 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+</style>
+</head>
+<body>
+<img id="background" style="position:absolute; left:0px; top:0px;" width="1440" height="1080" src="page47.png">
+<div class="txt" style="position:absolute; left:804px; top:18px;"><span id="f8" style="font-size:31px;vertical-align:baseline;color:rgba(0,0,0,1);">7.3 Assertions and Defensive Programming</span></div>
+<div class="txt" style="position:absolute; left:33px; top:107px;"><span id="f8" style="font-size:60px;vertical-align:baseline;color:rgba(0,0,0,1);">Relationship between Barricades and Assertions</span></div>
+<div class="txt" style="position:absolute; left:76px; top:247px;"><span id="f11" style="font-size:40px;vertical-align:baseline;color:rgba(255,130,44,1);">▪ </span><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(255,0,0,1);">The use of barricades makes the distinction between assertions</span></div>
+<div class="txt" style="position:absolute; left:112px; top:295px;"><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(255,0,0,1);">and error handling clean cut. </span><span id="f17" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,255,1);">隔栏的实现中可以体现断言和异常的区别</span></div>
+<div class="txt" style="position:absolute; left:112px; top:362px;"><span id="f19" style="font-size:36px;vertical-align:baseline;color:rgba(255,130,44,1);">– </span><span id="f13" style="font-size:36px;vertical-align:baseline;color:rgba(255,0,0,1);">Routines that are outside the barricade should use error handling</span></div>
+<div class="txt" style="position:absolute; left:148px; top:405px;"><span id="f22" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">because it isn’t safe to make any assumptions about the data.</span></div>
+<div class="txt" style="position:absolute; left:112px; top:465px;"><span id="f19" style="font-size:36px;vertical-align:baseline;color:rgba(255,130,44,1);">– </span><span id="f13" style="font-size:36px;vertical-align:baseline;color:rgba(255,0,0,1);">Routines inside the barricade should use assertions</span><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">, because the data</span></div>
+<div class="txt" style="position:absolute; left:148px; top:509px;"><span id="f22" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">passed to them is supposed to be sanitized before it’s passed across the</span></div>
+<div class="txt" style="position:absolute; left:148px; top:552px;"><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">barricade. If one of the routines inside the barricade detects bad data,</span></div>
+<div class="txt" style="position:absolute; left:148px; top:595px;"><span id="f22" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">that’s an error in the program rather than an error in the data.</span></div>
+<div class="txt" style="position:absolute; left:76px; top:733px;"><span id="f11" style="font-size:40px;vertical-align:baseline;color:rgba(255,130,44,1);">▪ </span><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">The use of barricades also illustrates the value of deciding at the</span></div>
+<div class="txt" style="position:absolute; left:112px; top:782px;"><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">architectural level how to handle errors. Deciding which code is</span></div>
+<div class="txt" style="position:absolute; left:112px; top:830px;"><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">inside and which is outside the barricade is an architecture-level</span></div>
+<div class="txt" style="position:absolute; left:112px; top:877px;"><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">decision. </span><span id="f17" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,255,1);">隔栏的使用也展示了在架构级别如何处理错误，决定哪些代码位于</span></div>
+<div class="txt" style="position:absolute; left:112px; top:922px;"><span id="f17" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,255,1);">内部，哪些位于隔栏之外是架构级决策。</span></div>
+</body>
+</html>

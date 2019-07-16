@@ -1,0 +1,1181 @@
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 18:18:47 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getObjectDistributionEntropy(CircularOrbitAPIs.java:53) ] get DistributionEntropy
+2019-05-22 18:18:47 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:18:47 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:18:47 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getObjectDistributionEntropy(CircularOrbitAPIs.java:53) ] get DistributionEntropy
+2019-05-22 18:18:47 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getObjectDistributionEntropy(CircularOrbitAPIs.java:53) ] get DistributionEntropy
+2019-05-22 18:18:47 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:18:47 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 18:18:47 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getPhysicalDistance(CircularOrbitAPIs.java:113) ] get physical distence
+2019-05-22 18:18:47 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 18:18:47 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 18:18:47 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 18:18:47 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:18:47 [ INFO ] - [ core.application.AtomStructure.transit(AtomStructure.java:163) ] transit the electron
+2019-05-22 18:18:47 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:18:47 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:18:47 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:18:47 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:18:47 [ ERROR ] - [ core.application.AtomStructure.buildElectronic(AtomStructure.java:138) ] Track number error
+2019-05-22 18:18:47 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:63) ] Data format error
+2019-05-22 18:18:47 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:18:47 [ ERROR ] - [ core.application.AtomStructure.buildElectronic(AtomStructure.java:138) ] Track number error
+2019-05-22 18:18:47 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:63) ] Data format error
+2019-05-22 18:18:47 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:18:47 [ ERROR ] - [ core.application.AtomStructure.buildElectronic(AtomStructure.java:138) ] Track number error
+2019-05-22 18:18:47 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:63) ] Data format error
+2019-05-22 18:18:47 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:18:47 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructure(AtomStructure.java:99) ] Core data error
+2019-05-22 18:18:47 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:63) ] Data format error
+2019-05-22 18:18:47 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:18:47 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:55) ] Number of tracks error
+2019-05-22 18:18:47 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:63) ] Data format error
+2019-05-22 18:18:47 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:18:47 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructure(AtomStructure.java:105) ] Number of electronic error
+2019-05-22 18:18:47 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:63) ] Data format error
+2019-05-22 18:18:47 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:18:47 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystem(PersonalAppEcosystem.java:230) ] data error
+2019-05-22 18:18:47 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:18:47 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildApp(PersonalAppEcosystem.java:479) ] file error
+2019-05-22 18:18:47 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:18:47 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:18:47 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:18:47 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:18:47 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildApp(PersonalAppEcosystem.java:485) ] char error
+2019-05-22 18:18:47 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:18:47 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildUser(PersonalAppEcosystem.java:431) ] name error
+2019-05-22 18:18:47 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:18:47 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.CalculatePosition(StellarSystem.java:242) ] calculatedistance
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.CalculatePosition(StellarSystem.java:242) ] calculatedistance
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ ERROR ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:223) ] equallabel
+2019-05-22 18:18:47 [ ERROR ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:75) ] FileException
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ ERROR ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:235) ] fileexception
+2019-05-22 18:18:47 [ ERROR ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:75) ] FileException
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ ERROR ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:138) ] The stellar data has error
+2019-05-22 18:18:47 [ ERROR ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:75) ] FileException
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:18:47 [ ERROR ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:142) ] The planet data has error
+2019-05-22 18:18:47 [ ERROR ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:75) ] FileException
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ ERROR ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:235) ] fileexception
+2019-05-22 18:18:47 [ ERROR ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:75) ] FileException
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:18:47 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 18:18:47 [ INFO ] - [ logsource.LogSearch.searchByPeriod(LogSearch.java:77) ] searchByPeriod
+2019-05-22 18:18:47 [ ERROR ] - [ logsource.LogSearch.searchByPeriod(LogSearch.java:113) ] TimeFormatException
+2019-05-22 18:18:47 [ INFO ] - [ logsource.LogSearch.searchByPeriod(LogSearch.java:77) ] searchByPeriod
+2019-05-22 18:18:47 [ INFO ] - [ logsource.LogSearch.searchByPeriod(LogSearch.java:77) ] searchByPeriod
+2019-05-22 18:18:47 [ INFO ] - [ logsource.LogSearch.searchByType(LogSearch.java:124) ] searchByType
+2019-05-22 18:18:47 [ ERROR ] - [ logsource.LogSearch.searchByType(LogSearch.java:131) ] IllegalInputStatementException
+2019-05-22 18:18:47 [ INFO ] - [ logsource.LogSearch.searchByType(LogSearch.java:124) ] searchByType
+2019-05-22 18:18:47 [ INFO ] - [ logsource.LogSearch.searchByType(LogSearch.java:124) ] searchByType
+2019-05-22 18:18:47 [ INFO ] - [ logsource.LogSearch.searchByType(LogSearch.java:124) ] searchByType
+2019-05-22 18:18:47 [ INFO ] - [ logsource.LogSearch.searchByMethodName(LogSearch.java:151) ] searchByMethodName
+2019-05-22 18:18:47 [ INFO ] - [ logsource.LogSearch.searchByMethodName(LogSearch.java:151) ] searchByMethodName
+2019-05-22 18:18:47 [ INFO ] - [ logsource.LogSearch.searchByMethodName(LogSearch.java:151) ] searchByMethodName
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 18:21:14 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getObjectDistributionEntropy(CircularOrbitAPIs.java:53) ] get DistributionEntropy
+2019-05-22 18:21:14 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:21:14 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:21:14 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getObjectDistributionEntropy(CircularOrbitAPIs.java:53) ] get DistributionEntropy
+2019-05-22 18:21:14 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getObjectDistributionEntropy(CircularOrbitAPIs.java:53) ] get DistributionEntropy
+2019-05-22 18:21:14 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:21:14 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 18:21:14 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getPhysicalDistance(CircularOrbitAPIs.java:113) ] get physical distence
+2019-05-22 18:21:14 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 18:21:14 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 18:21:14 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 18:21:14 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:21:14 [ INFO ] - [ core.application.AtomStructure.transit(AtomStructure.java:163) ] transit the electron
+2019-05-22 18:21:14 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:21:14 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:21:14 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:21:14 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:21:14 [ ERROR ] - [ core.application.AtomStructure.buildElectronic(AtomStructure.java:138) ] Track number error
+2019-05-22 18:21:14 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:63) ] Data format error
+2019-05-22 18:21:14 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:21:14 [ ERROR ] - [ core.application.AtomStructure.buildElectronic(AtomStructure.java:138) ] Track number error
+2019-05-22 18:21:14 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:63) ] Data format error
+2019-05-22 18:21:14 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:21:14 [ ERROR ] - [ core.application.AtomStructure.buildElectronic(AtomStructure.java:138) ] Track number error
+2019-05-22 18:21:14 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:63) ] Data format error
+2019-05-22 18:21:14 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:21:14 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructure(AtomStructure.java:99) ] Core data error
+2019-05-22 18:21:14 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:63) ] Data format error
+2019-05-22 18:21:14 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:21:14 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:55) ] Number of tracks error
+2019-05-22 18:21:14 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:63) ] Data format error
+2019-05-22 18:21:14 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:21:14 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructure(AtomStructure.java:105) ] Number of electronic error
+2019-05-22 18:21:14 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:63) ] Data format error
+2019-05-22 18:21:14 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:21:14 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystem(PersonalAppEcosystem.java:230) ] data error
+2019-05-22 18:21:14 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:21:14 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildApp(PersonalAppEcosystem.java:479) ] file error
+2019-05-22 18:21:14 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:21:14 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:21:14 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:21:14 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:21:14 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildApp(PersonalAppEcosystem.java:485) ] char error
+2019-05-22 18:21:14 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:21:14 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildUser(PersonalAppEcosystem.java:431) ] name error
+2019-05-22 18:21:14 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:21:14 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.CalculatePosition(StellarSystem.java:242) ] calculatedistance
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.CalculatePosition(StellarSystem.java:242) ] calculatedistance
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ ERROR ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:223) ] equallabel
+2019-05-22 18:21:14 [ ERROR ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:75) ] FileException
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ ERROR ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:235) ] fileexception
+2019-05-22 18:21:14 [ ERROR ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:75) ] FileException
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ ERROR ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:138) ] The stellar data has error
+2019-05-22 18:21:14 [ ERROR ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:75) ] FileException
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:21:14 [ ERROR ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:142) ] The planet data has error
+2019-05-22 18:21:14 [ ERROR ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:75) ] FileException
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ ERROR ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:235) ] fileexception
+2019-05-22 18:21:14 [ ERROR ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:75) ] FileException
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:21:14 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 18:21:14 [ INFO ] - [ logsource.LogSearch.searchByPeriod(LogSearch.java:77) ] searchByPeriod
+2019-05-22 18:21:14 [ ERROR ] - [ logsource.LogSearch.searchByPeriod(LogSearch.java:113) ] TimeFormatException
+2019-05-22 18:21:14 [ INFO ] - [ logsource.LogSearch.searchByPeriod(LogSearch.java:77) ] searchByPeriod
+2019-05-22 18:21:14 [ INFO ] - [ logsource.LogSearch.searchByPeriod(LogSearch.java:77) ] searchByPeriod
+2019-05-22 18:21:14 [ INFO ] - [ logsource.LogSearch.searchByType(LogSearch.java:124) ] searchByType
+2019-05-22 18:21:14 [ ERROR ] - [ logsource.LogSearch.searchByType(LogSearch.java:131) ] IllegalInputStatementException
+2019-05-22 18:21:14 [ INFO ] - [ logsource.LogSearch.searchByType(LogSearch.java:124) ] searchByType
+2019-05-22 18:21:14 [ INFO ] - [ logsource.LogSearch.searchByType(LogSearch.java:124) ] searchByType
+2019-05-22 18:21:14 [ INFO ] - [ logsource.LogSearch.searchByType(LogSearch.java:124) ] searchByType
+2019-05-22 18:21:14 [ INFO ] - [ logsource.LogSearch.searchByMethodName(LogSearch.java:151) ] searchByMethodName
+2019-05-22 18:21:14 [ INFO ] - [ logsource.LogSearch.searchByMethodName(LogSearch.java:151) ] searchByMethodName
+2019-05-22 18:21:14 [ INFO ] - [ logsource.LogSearch.searchByMethodName(LogSearch.java:151) ] searchByMethodName
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 18:22:07 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getObjectDistributionEntropy(CircularOrbitAPIs.java:53) ] get DistributionEntropy
+2019-05-22 18:22:07 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:22:07 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:22:07 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getObjectDistributionEntropy(CircularOrbitAPIs.java:53) ] get DistributionEntropy
+2019-05-22 18:22:07 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getObjectDistributionEntropy(CircularOrbitAPIs.java:53) ] get DistributionEntropy
+2019-05-22 18:22:07 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:22:07 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 18:22:07 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getPhysicalDistance(CircularOrbitAPIs.java:113) ] get physical distence
+2019-05-22 18:22:07 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 18:22:07 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 18:22:07 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 18:22:07 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:22:07 [ INFO ] - [ core.application.AtomStructure.transit(AtomStructure.java:163) ] transit the electron
+2019-05-22 18:22:07 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:22:07 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:22:07 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:22:07 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:22:07 [ ERROR ] - [ core.application.AtomStructure.buildElectronic(AtomStructure.java:138) ] Track number error
+2019-05-22 18:22:07 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:63) ] Data format error
+2019-05-22 18:22:07 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:22:07 [ ERROR ] - [ core.application.AtomStructure.buildElectronic(AtomStructure.java:138) ] Track number error
+2019-05-22 18:22:07 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:63) ] Data format error
+2019-05-22 18:22:07 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:22:07 [ ERROR ] - [ core.application.AtomStructure.buildElectronic(AtomStructure.java:138) ] Track number error
+2019-05-22 18:22:07 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:63) ] Data format error
+2019-05-22 18:22:07 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:22:07 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructure(AtomStructure.java:99) ] Core data error
+2019-05-22 18:22:07 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:63) ] Data format error
+2019-05-22 18:22:07 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:22:07 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:55) ] Number of tracks error
+2019-05-22 18:22:07 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:63) ] Data format error
+2019-05-22 18:22:07 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:32) ] bulid AtomStructure from file
+2019-05-22 18:22:07 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructure(AtomStructure.java:105) ] Number of electronic error
+2019-05-22 18:22:07 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:63) ] Data format error
+2019-05-22 18:22:07 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:22:07 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystem(PersonalAppEcosystem.java:230) ] data error
+2019-05-22 18:22:07 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:22:07 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildApp(PersonalAppEcosystem.java:479) ] file error
+2019-05-22 18:22:07 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:22:07 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:22:07 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:22:07 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:22:07 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildApp(PersonalAppEcosystem.java:485) ] char error
+2019-05-22 18:22:07 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:22:07 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildUser(PersonalAppEcosystem.java:431) ] name error
+2019-05-22 18:22:07 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:22:07 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.CalculatePosition(StellarSystem.java:242) ] calculatedistance
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.CalculatePosition(StellarSystem.java:242) ] calculatedistance
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ ERROR ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:223) ] equallabel
+2019-05-22 18:22:07 [ ERROR ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:75) ] FileException
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ ERROR ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:235) ] fileexception
+2019-05-22 18:22:07 [ ERROR ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:75) ] FileException
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ ERROR ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:138) ] The stellar data has error
+2019-05-22 18:22:07 [ ERROR ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:75) ] FileException
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:22:07 [ ERROR ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:142) ] The planet data has error
+2019-05-22 18:22:07 [ ERROR ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:75) ] FileException
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ ERROR ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:235) ] fileexception
+2019-05-22 18:22:07 [ ERROR ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:75) ] FileException
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:07 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 18:22:07 [ INFO ] - [ logsource.LogSearch.searchByPeriod(LogSearch.java:77) ] searchByPeriod
+2019-05-22 18:22:07 [ ERROR ] - [ logsource.LogSearch.searchByPeriod(LogSearch.java:113) ] TimeFormatException
+2019-05-22 18:22:07 [ INFO ] - [ logsource.LogSearch.searchByPeriod(LogSearch.java:77) ] searchByPeriod
+2019-05-22 18:22:07 [ INFO ] - [ logsource.LogSearch.searchByPeriod(LogSearch.java:77) ] searchByPeriod
+2019-05-22 18:22:07 [ INFO ] - [ logsource.LogSearch.searchByType(LogSearch.java:124) ] searchByType
+2019-05-22 18:22:07 [ ERROR ] - [ logsource.LogSearch.searchByType(LogSearch.java:131) ] IllegalInputStatementException
+2019-05-22 18:22:07 [ INFO ] - [ logsource.LogSearch.searchByType(LogSearch.java:124) ] searchByType
+2019-05-22 18:22:07 [ INFO ] - [ logsource.LogSearch.searchByType(LogSearch.java:124) ] searchByType
+2019-05-22 18:22:07 [ INFO ] - [ logsource.LogSearch.searchByType(LogSearch.java:124) ] searchByType
+2019-05-22 18:22:07 [ INFO ] - [ logsource.LogSearch.searchByMethodName(LogSearch.java:151) ] searchByMethodName
+2019-05-22 18:22:07 [ INFO ] - [ logsource.LogSearch.searchByMethodName(LogSearch.java:151) ] searchByMethodName
+2019-05-22 18:22:07 [ INFO ] - [ logsource.LogSearch.searchByMethodName(LogSearch.java:151) ] searchByMethodName
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 18:22:37 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getObjectDistributionEntropy(CircularOrbitAPIs.java:53) ] get DistributionEntropy
+2019-05-22 18:22:37 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 18:22:37 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 18:22:37 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getObjectDistributionEntropy(CircularOrbitAPIs.java:53) ] get DistributionEntropy
+2019-05-22 18:22:37 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getObjectDistributionEntropy(CircularOrbitAPIs.java:53) ] get DistributionEntropy
+2019-05-22 18:22:37 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:22:37 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 18:22:37 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getPhysicalDistance(CircularOrbitAPIs.java:113) ] get physical distence
+2019-05-22 18:22:37 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 18:22:37 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 18:22:37 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 18:22:37 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 18:22:37 [ INFO ] - [ core.application.AtomStructure.transit(AtomStructure.java:162) ] transit the electron
+2019-05-22 18:22:37 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 18:22:37 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 18:22:37 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 18:22:37 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 18:22:37 [ ERROR ] - [ core.application.AtomStructure.buildElectronic(AtomStructure.java:137) ] Track number error
+2019-05-22 18:22:37 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:62) ] Data format error
+2019-05-22 18:22:37 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 18:22:37 [ ERROR ] - [ core.application.AtomStructure.buildElectronic(AtomStructure.java:137) ] Track number error
+2019-05-22 18:22:37 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:62) ] Data format error
+2019-05-22 18:22:37 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 18:22:37 [ ERROR ] - [ core.application.AtomStructure.buildElectronic(AtomStructure.java:137) ] Track number error
+2019-05-22 18:22:37 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:62) ] Data format error
+2019-05-22 18:22:37 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 18:22:37 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructure(AtomStructure.java:98) ] Core data error
+2019-05-22 18:22:37 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:62) ] Data format error
+2019-05-22 18:22:37 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 18:22:37 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:54) ] Number of tracks error
+2019-05-22 18:22:37 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:62) ] Data format error
+2019-05-22 18:22:37 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 18:22:37 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructure(AtomStructure.java:104) ] Number of electronic error
+2019-05-22 18:22:37 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:62) ] Data format error
+2019-05-22 18:22:37 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:22:37 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystem(PersonalAppEcosystem.java:230) ] data error
+2019-05-22 18:22:37 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:22:37 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildApp(PersonalAppEcosystem.java:479) ] file error
+2019-05-22 18:22:37 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:22:37 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:22:37 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:22:37 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:22:37 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildApp(PersonalAppEcosystem.java:485) ] char error
+2019-05-22 18:22:37 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:22:37 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildUser(PersonalAppEcosystem.java:431) ] name error
+2019-05-22 18:22:37 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:22:37 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:123) ] fileexception
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.CalculatePosition(StellarSystem.java:242) ] calculatedistance
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.CalculatePosition(StellarSystem.java:242) ] calculatedistance
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ ERROR ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:223) ] equallabel
+2019-05-22 18:22:37 [ ERROR ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:75) ] FileException
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ ERROR ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:235) ] fileexception
+2019-05-22 18:22:37 [ ERROR ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:75) ] FileException
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ ERROR ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:138) ] The stellar data has error
+2019-05-22 18:22:37 [ ERROR ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:75) ] FileException
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:22:37 [ ERROR ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:142) ] The planet data has error
+2019-05-22 18:22:37 [ ERROR ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:75) ] FileException
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ ERROR ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:235) ] fileexception
+2019-05-22 18:22:37 [ ERROR ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:75) ] FileException
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:22:37 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 18:22:37 [ INFO ] - [ logsource.LogSearch.searchByPeriod(LogSearch.java:77) ] searchByPeriod
+2019-05-22 18:22:37 [ ERROR ] - [ logsource.LogSearch.searchByPeriod(LogSearch.java:113) ] TimeFormatException
+2019-05-22 18:22:37 [ INFO ] - [ logsource.LogSearch.searchByPeriod(LogSearch.java:77) ] searchByPeriod
+2019-05-22 18:22:37 [ INFO ] - [ logsource.LogSearch.searchByPeriod(LogSearch.java:77) ] searchByPeriod
+2019-05-22 18:22:37 [ INFO ] - [ logsource.LogSearch.searchByType(LogSearch.java:124) ] searchByType
+2019-05-22 18:22:37 [ ERROR ] - [ logsource.LogSearch.searchByType(LogSearch.java:131) ] IllegalInputStatementException
+2019-05-22 18:22:37 [ INFO ] - [ logsource.LogSearch.searchByType(LogSearch.java:124) ] searchByType
+2019-05-22 18:22:37 [ INFO ] - [ logsource.LogSearch.searchByType(LogSearch.java:124) ] searchByType
+2019-05-22 18:22:37 [ INFO ] - [ logsource.LogSearch.searchByType(LogSearch.java:124) ] searchByType
+2019-05-22 18:22:37 [ INFO ] - [ logsource.LogSearch.searchByMethodName(LogSearch.java:151) ] searchByMethodName
+2019-05-22 18:22:37 [ INFO ] - [ logsource.LogSearch.searchByMethodName(LogSearch.java:151) ] searchByMethodName
+2019-05-22 18:22:37 [ INFO ] - [ logsource.LogSearch.searchByMethodName(LogSearch.java:151) ] searchByMethodName
+2019-05-22 18:24:38 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:24:38 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:24:38 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:24:38 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:24:38 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:24:38 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:24:38 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:24:38 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:24:38 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:24:38 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:24:38 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 18:24:38 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getObjectDistributionEntropy(CircularOrbitAPIs.java:53) ] get DistributionEntropy
+2019-05-22 18:24:38 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 18:24:38 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 18:24:38 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getObjectDistributionEntropy(CircularOrbitAPIs.java:53) ] get DistributionEntropy
+2019-05-22 18:24:38 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getObjectDistributionEntropy(CircularOrbitAPIs.java:53) ] get DistributionEntropy
+2019-05-22 18:24:38 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:108) ] fileexception
+2019-05-22 18:24:38 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:108) ] fileexception
+2019-05-22 18:25:10 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:25:10 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:25:10 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:25:10 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:25:10 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:25:10 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:25:10 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:25:10 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:25:10 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:25:10 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:25:10 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 18:25:10 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getObjectDistributionEntropy(CircularOrbitAPIs.java:53) ] get DistributionEntropy
+2019-05-22 18:25:10 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 18:25:10 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 18:25:10 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getObjectDistributionEntropy(CircularOrbitAPIs.java:53) ] get DistributionEntropy
+2019-05-22 18:25:10 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getObjectDistributionEntropy(CircularOrbitAPIs.java:53) ] get DistributionEntropy
+2019-05-22 18:25:10 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:108) ] fileexception
+2019-05-22 18:25:10 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:108) ] fileexception
+2019-05-22 18:25:10 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:25:10 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:25:10 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:25:10 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:25:10 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:25:10 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:25:10 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:25:10 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:25:10 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:25:10 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:25:10 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 18:25:10 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getPhysicalDistance(CircularOrbitAPIs.java:113) ] get physical distence
+2019-05-22 18:25:10 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:108) ] fileexception
+2019-05-22 18:26:25 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:26:25 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:26:25 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:26:25 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:26:25 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:26:25 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:26:25 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:26:25 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:26:25 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:26:25 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:26:25 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 18:26:25 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getObjectDistributionEntropy(CircularOrbitAPIs.java:53) ] get DistributionEntropy
+2019-05-22 18:26:25 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 18:26:25 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 18:26:25 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getObjectDistributionEntropy(CircularOrbitAPIs.java:53) ] get DistributionEntropy
+2019-05-22 18:26:25 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getObjectDistributionEntropy(CircularOrbitAPIs.java:53) ] get DistributionEntropy
+2019-05-22 18:26:25 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:108) ] fileexception
+2019-05-22 18:26:25 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:108) ] fileexception
+2019-05-22 18:28:58 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:28:58 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:28:58 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:28:58 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:28:58 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:28:58 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:28:58 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:28:58 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:28:58 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:28:58 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:28:58 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 18:28:58 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getPhysicalDistance(CircularOrbitAPIs.java:113) ] get physical distence
+2019-05-22 18:28:58 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:108) ] fileexception
+2019-05-22 18:30:40 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:30:40 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:30:40 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:30:40 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:30:40 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:30:40 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:30:40 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:30:40 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:30:40 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:30:40 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:30:40 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 18:30:40 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getPhysicalDistance(CircularOrbitAPIs.java:113) ] get physical distence
+2019-05-22 18:32:32 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:108) ] fileexception
+2019-05-22 18:32:43 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:32:43 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:32:43 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:32:43 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:32:43 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:32:43 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:32:43 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:32:43 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:32:43 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:32:43 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:32:43 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 18:32:43 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getPhysicalDistance(CircularOrbitAPIs.java:113) ] get physical distence
+2019-05-22 18:37:52 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:108) ] fileexception
+2019-05-22 18:37:56 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:37:56 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:37:56 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:37:56 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:37:56 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:37:56 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:37:56 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:37:56 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:37:56 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:37:56 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:37:56 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 18:37:56 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getPhysicalDistance(CircularOrbitAPIs.java:113) ] get physical distence
+2019-05-22 18:37:56 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:108) ] fileexception
+2019-05-22 18:39:08 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:108) ] fileexception
+2019-05-22 18:49:28 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:49:28 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:49:28 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:49:28 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:49:28 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:49:28 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:49:28 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:49:28 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:49:28 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:49:28 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:49:28 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 18:49:28 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getObjectDistributionEntropy(CircularOrbitAPIs.java:53) ] get DistributionEntropy
+2019-05-22 18:49:28 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 18:49:28 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 18:49:28 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getObjectDistributionEntropy(CircularOrbitAPIs.java:53) ] get DistributionEntropy
+2019-05-22 18:49:28 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getObjectDistributionEntropy(CircularOrbitAPIs.java:53) ] get DistributionEntropy
+2019-05-22 18:49:29 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:108) ] fileexception
+2019-05-22 18:49:29 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:108) ] fileexception
+2019-05-22 18:49:42 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 18:49:42 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 18:49:42 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:49:42 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:49:42 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:49:42 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:49:42 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:49:42 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:49:42 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:49:42 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 18:49:42 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 18:49:42 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getObjectDistributionEntropy(CircularOrbitAPIs.java:53) ] get DistributionEntropy
+2019-05-22 18:49:42 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 18:49:42 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 18:49:42 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getObjectDistributionEntropy(CircularOrbitAPIs.java:53) ] get DistributionEntropy
+2019-05-22 18:49:42 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getObjectDistributionEntropy(CircularOrbitAPIs.java:53) ] get DistributionEntropy
+2019-05-22 18:49:42 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:108) ] fileexception
+2019-05-22 18:49:42 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:108) ] fileexception
+2019-05-22 18:51:03 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(?:108) ] fileexception
+2019-05-22 18:51:04 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:108) ] fileexception
+2019-05-22 19:00:02 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 19:00:02 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 19:00:02 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:02 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:02 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:02 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:02 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:02 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:02 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:02 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:02 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 19:00:02 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getObjectDistributionEntropy(CircularOrbitAPIs.java:53) ] get DistributionEntropy
+2019-05-22 19:00:02 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 19:00:02 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 19:00:02 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getObjectDistributionEntropy(CircularOrbitAPIs.java:53) ] get DistributionEntropy
+2019-05-22 19:00:02 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getObjectDistributionEntropy(CircularOrbitAPIs.java:53) ] get DistributionEntropy
+2019-05-22 19:00:02 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:108) ] fileexception
+2019-05-22 19:00:03 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:108) ] fileexception
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 19:00:03 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getPhysicalDistance(CircularOrbitAPIs.java:113) ] get physical distence
+2019-05-22 19:00:03 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:108) ] fileexception
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.CalculatePosition(StellarSystem.java:242) ] calculatedistance
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.CalculatePosition(StellarSystem.java:242) ] calculatedistance
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ ERROR ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:138) ] The stellar data has error
+2019-05-22 19:00:03 [ ERROR ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:75) ] FileException
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 19:00:03 [ ERROR ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:142) ] The planet data has error
+2019-05-22 19:00:03 [ ERROR ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:75) ] FileException
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ ERROR ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:235) ] fileexception
+2019-05-22 19:00:03 [ ERROR ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:75) ] FileException
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ ERROR ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:223) ] equallabel
+2019-05-22 19:00:03 [ ERROR ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:75) ] FileException
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ ERROR ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:235) ] fileexception
+2019-05-22 19:00:03 [ ERROR ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:75) ] FileException
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 19:00:03 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:00:03 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 19:00:03 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 19:00:03 [ INFO ] - [ logsource.LogSearch.searchByType(LogSearch.java:124) ] searchByType
+2019-05-22 19:00:03 [ ERROR ] - [ logsource.LogSearch.searchByType(LogSearch.java:131) ] IllegalInputStatementException
+2019-05-22 19:00:03 [ INFO ] - [ logsource.LogSearch.searchByType(LogSearch.java:124) ] searchByType
+2019-05-22 19:00:03 [ INFO ] - [ logsource.LogSearch.searchByType(LogSearch.java:124) ] searchByType
+2019-05-22 19:00:03 [ INFO ] - [ logsource.LogSearch.searchByType(LogSearch.java:124) ] searchByType
+2019-05-22 19:00:03 [ INFO ] - [ logsource.LogSearch.searchByPeriod(LogSearch.java:77) ] searchByPeriod
+2019-05-22 19:00:03 [ ERROR ] - [ logsource.LogSearch.searchByPeriod(LogSearch.java:113) ] TimeFormatException
+2019-05-22 19:00:03 [ INFO ] - [ logsource.LogSearch.searchByPeriod(LogSearch.java:77) ] searchByPeriod
+2019-05-22 19:00:03 [ INFO ] - [ logsource.LogSearch.searchByPeriod(LogSearch.java:77) ] searchByPeriod
+2019-05-22 19:00:03 [ INFO ] - [ logsource.LogSearch.searchByMethodName(LogSearch.java:151) ] searchByMethodName
+2019-05-22 19:00:03 [ INFO ] - [ logsource.LogSearch.searchByMethodName(LogSearch.java:151) ] searchByMethodName
+2019-05-22 19:00:03 [ INFO ] - [ logsource.LogSearch.searchByMethodName(LogSearch.java:151) ] searchByMethodName
+2019-05-22 19:00:03 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:108) ] fileexception
+2019-05-22 19:00:03 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:108) ] fileexception
+2019-05-22 19:00:03 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildApp(PersonalAppEcosystem.java:403) ] char error
+2019-05-22 19:00:03 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:108) ] fileexception
+2019-05-22 19:00:03 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildUser(PersonalAppEcosystem.java:364) ] name error
+2019-05-22 19:00:03 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:108) ] fileexception
+2019-05-22 19:00:03 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:108) ] fileexception
+2019-05-22 19:00:03 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:108) ] fileexception
+2019-05-22 19:00:03 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystem(PersonalAppEcosystem.java:165) ] data error
+2019-05-22 19:00:03 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:108) ] fileexception
+2019-05-22 19:00:03 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildApp(PersonalAppEcosystem.java:397) ] file error
+2019-05-22 19:00:03 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:108) ] fileexception
+2019-05-22 19:00:03 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:108) ] fileexception
+2019-05-22 19:00:03 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 19:00:03 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 19:00:03 [ INFO ] - [ core.application.AtomStructure.transit(AtomStructure.java:162) ] transit the electron
+2019-05-22 19:00:03 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 19:00:03 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 19:00:03 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 19:00:03 [ ERROR ] - [ core.application.AtomStructure.buildElectronic(AtomStructure.java:137) ] Track number error
+2019-05-22 19:00:03 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:62) ] Data format error
+2019-05-22 19:00:03 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 19:00:03 [ ERROR ] - [ core.application.AtomStructure.buildElectronic(AtomStructure.java:137) ] Track number error
+2019-05-22 19:00:03 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:62) ] Data format error
+2019-05-22 19:00:03 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 19:00:03 [ ERROR ] - [ core.application.AtomStructure.buildElectronic(AtomStructure.java:137) ] Track number error
+2019-05-22 19:00:03 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:62) ] Data format error
+2019-05-22 19:00:03 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 19:00:03 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructure(AtomStructure.java:98) ] Core data error
+2019-05-22 19:00:03 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:62) ] Data format error
+2019-05-22 19:00:03 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 19:00:03 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:54) ] Number of tracks error
+2019-05-22 19:00:03 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:62) ] Data format error
+2019-05-22 19:00:03 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 19:00:03 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructure(AtomStructure.java:104) ] Number of electronic error
+2019-05-22 19:00:03 [ ERROR ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:62) ] Data format error
+2019-05-22 19:09:57 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:108) ] fileexception
+2019-05-22 19:09:57 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildUser(PersonalAppEcosystem.java:364) ] name error
+2019-05-22 19:09:57 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:108) ] fileexception
+2019-05-22 19:09:57 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystem(PersonalAppEcosystem.java:165) ] data error
+2019-05-22 19:09:57 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:108) ] fileexception
+2019-05-22 19:09:57 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildApp(PersonalAppEcosystem.java:397) ] file error
+2019-05-22 19:09:57 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:108) ] fileexception
+2019-05-22 19:09:57 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildApp(PersonalAppEcosystem.java:403) ] char error
+2019-05-22 19:09:57 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:108) ] fileexception
+2019-05-22 19:09:57 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:108) ] fileexception
+2019-05-22 19:09:57 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:108) ] fileexception
+2019-05-22 19:09:57 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:108) ] fileexception
+2019-05-22 19:09:57 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:108) ] fileexception
+2019-05-22 19:14:12 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:107) ] fileexception
+2019-05-22 19:14:12 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystem(PersonalAppEcosystem.java:208) ] data error
+2019-05-22 19:14:12 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:107) ] fileexception
+2019-05-22 19:14:12 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildApp(PersonalAppEcosystem.java:444) ] file error
+2019-05-22 19:14:12 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:107) ] fileexception
+2019-05-22 19:14:12 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildUser(PersonalAppEcosystem.java:397) ] name error
+2019-05-22 19:14:12 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:107) ] fileexception
+2019-05-22 19:14:12 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:107) ] fileexception
+2019-05-22 19:14:12 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:107) ] fileexception
+2019-05-22 19:14:12 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildApp(PersonalAppEcosystem.java:450) ] char error
+2019-05-22 19:14:12 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:107) ] fileexception
+2019-05-22 19:14:12 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:107) ] fileexception
+2019-05-22 19:14:12 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:107) ] fileexception
+2019-05-22 19:14:38 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:107) ] fileexception
+2019-05-22 19:16:30 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 19:16:30 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 19:16:30 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:16:30 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:16:30 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:16:30 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:16:30 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:16:30 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:16:30 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:16:30 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:16:30 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 19:16:30 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getPhysicalDistance(CircularOrbitAPIs.java:113) ] get physical distence
+2019-05-22 19:16:30 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:107) ] fileexception
+2019-05-22 19:16:30 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 19:16:30 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 19:16:30 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:16:30 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:16:30 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:16:30 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:16:30 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:16:30 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:16:30 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:16:30 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:16:30 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 19:16:30 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getObjectDistributionEntropy(CircularOrbitAPIs.java:53) ] get DistributionEntropy
+2019-05-22 19:16:30 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 19:16:30 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 19:16:30 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getObjectDistributionEntropy(CircularOrbitAPIs.java:53) ] get DistributionEntropy
+2019-05-22 19:16:30 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getObjectDistributionEntropy(CircularOrbitAPIs.java:53) ] get DistributionEntropy
+2019-05-22 19:16:30 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:107) ] fileexception
+2019-05-22 19:16:30 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:107) ] fileexception
+2019-05-22 19:18:28 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 19:18:28 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 19:18:28 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:18:28 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:18:28 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:18:28 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:18:28 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:18:28 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:18:28 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:18:28 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:18:28 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 19:18:28 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getPhysicalDistance(CircularOrbitAPIs.java:113) ] get physical distence
+2019-05-22 19:18:28 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:107) ] fileexception
+2019-05-22 19:18:53 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 19:18:53 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 19:18:53 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:18:53 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:18:53 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:18:53 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:18:53 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:18:53 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:18:53 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:18:53 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:18:53 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 19:18:53 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getPhysicalDistance(CircularOrbitAPIs.java:113) ] get physical distence
+2019-05-22 19:19:03 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 19:19:03 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 19:19:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:19:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:19:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:19:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:19:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:19:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:19:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:19:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:19:03 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 19:19:03 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getObjectDistributionEntropy(CircularOrbitAPIs.java:53) ] get DistributionEntropy
+2019-05-22 19:19:03 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 19:19:03 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 19:19:03 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getObjectDistributionEntropy(CircularOrbitAPIs.java:53) ] get DistributionEntropy
+2019-05-22 19:19:03 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getObjectDistributionEntropy(CircularOrbitAPIs.java:53) ] get DistributionEntropy
+2019-05-22 19:19:03 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:107) ] fileexception
+2019-05-22 19:19:03 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:107) ] fileexception
+2019-05-22 19:19:03 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 19:19:03 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 19:19:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:19:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:19:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:19:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:19:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:19:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:19:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:19:03 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:19:03 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 19:19:03 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getPhysicalDistance(CircularOrbitAPIs.java:113) ] get physical distence
+2019-05-22 19:20:48 [ INFO ] - [ core.application.StellarSystem.buildStellarSystem(StellarSystem.java:117) ] buildsystem
+2019-05-22 19:20:48 [ INFO ] - [ core.application.StellarSystem.buildStellar(StellarSystem.java:151) ] buildstellar
+2019-05-22 19:20:48 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:20:48 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:20:48 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:20:48 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:20:48 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:20:48 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:20:48 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:20:48 [ INFO ] - [ core.application.StellarSystem.buildPlanet(StellarSystem.java:212) ] buildplanet
+2019-05-22 19:20:48 [ INFO ] - [ core.application.StellarSystem.buildStellarSystemFromFile(StellarSystem.java:96) ] buildsystemfromfiles
+2019-05-22 19:20:48 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getObjectDistributionEntropy(CircularOrbitAPIs.java:53) ] get DistributionEntropy
+2019-05-22 19:20:48 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 19:20:48 [ INFO ] - [ core.application.AtomStructure.buildAtomStructureFromFile(AtomStructure.java:31) ] bulid AtomStructure from file
+2019-05-22 19:20:48 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getObjectDistributionEntropy(CircularOrbitAPIs.java:53) ] get DistributionEntropy
+2019-05-22 19:20:48 [ INFO ] - [ core.APIS.CircularOrbitAPIs.getObjectDistributionEntropy(CircularOrbitAPIs.java:53) ] get DistributionEntropy
+2019-05-22 19:22:36 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:107) ] fileexception
+2019-05-22 19:22:36 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:107) ] fileexception
+2019-05-22 19:22:36 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:107) ] fileexception
+2019-05-22 19:22:36 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildApp(PersonalAppEcosystem.java:450) ] char error
+2019-05-22 19:22:36 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:107) ] fileexception
+2019-05-22 19:22:36 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:107) ] fileexception
+2019-05-22 19:22:36 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildUser(PersonalAppEcosystem.java:397) ] name error
+2019-05-22 19:22:36 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:107) ] fileexception
+2019-05-22 19:22:36 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:107) ] fileexception
+2019-05-22 19:22:36 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystem(PersonalAppEcosystem.java:208) ] data error
+2019-05-22 19:22:36 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:107) ] fileexception
+2019-05-22 19:22:36 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildApp(PersonalAppEcosystem.java:444) ] file error
+2019-05-22 19:22:36 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:107) ] fileexception
+2019-05-22 19:24:37 [ ERROR ] - [ core.application.PersonalAppEcosystem.buildPersonalAppEcosystemFromFile(PersonalAppEcosystem.java:107) ] fileexception

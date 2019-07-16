@@ -1,0 +1,69 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">
+.txt { white-space:nowrap; }
+#f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f13 { font-family:sans-serif; font-weight:bold; font-style:normal; }
+#f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f38 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f39 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f40 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f41 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f42 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+</style>
+</head>
+<body>
+<img id="background" style="position:absolute; left:0px; top:0px;" width="1440" height="1080" src="page82.png">
+<div class="txt" style="position:absolute; left:33px; top:107px;"><span id="f8" style="font-size:60px;vertical-align:baseline;color:rgba(0,0,0,1);">Command Pattern</span></div>
+<div class="txt" style="position:absolute; left:872px; top:18px;"><span id="f8" style="font-size:31px;vertical-align:baseline;color:rgba(0,0,0,1);">6.2 Design Patterns for Maintainability</span></div>
+<div class="txt" style="position:absolute; left:76px; top:247px;"><span id="f11" style="font-size:40px;vertical-align:baseline;color:rgba(255,130,44,1);">▪ </span><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">Motivation</span></div>
+<div class="txt" style="position:absolute; left:112px; top:314px;"><span id="f15" style="font-size:36px;vertical-align:baseline;color:rgba(255,130,44,1);">– </span><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">For example, user interface toolkits include objects like buttons and menus</span></div>
+<div class="txt" style="position:absolute; left:148px; top:357px;"><span id="f18" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">that carry out a request in response to user input. But the toolkit can‘t</span></div>
+<div class="txt" style="position:absolute; left:148px; top:400px;"><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">implement the request explicitly in the button or menu, because only</span></div>
+<div class="txt" style="position:absolute; left:148px; top:443px;"><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">applications that use the toolkit know what should be done on which object.</span></div>
+<div class="txt" style="position:absolute; left:148px; top:487px;"><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">As toolkit designers we have no way of knowing the receiver of the request</span></div>
+<div class="txt" style="position:absolute; left:148px; top:526px;"><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">or the operations that will carry it out.</span><span id="f25" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,255,1);">工具箱的设计者无法知道请求的接受</span></div>
+<div class="txt" style="position:absolute; left:148px; top:569px;"><span id="f25" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,255,1);">者或执行的操作 ，只有使用工具箱的应用知道该由哪个对象做哪个操作。</span></div>
+<div class="txt" style="position:absolute; left:112px; top:633px;"><span id="f15" style="font-size:36px;vertical-align:baseline;color:rgba(255,130,44,1);">– </span><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">The Command pattern lets toolkit objects make requests of unspecified</span></div>
+<div class="txt" style="position:absolute; left:148px; top:677px;"><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">application objects by turning the request itself into an object. This object</span></div>
+<div class="txt" style="position:absolute; left:148px; top:720px;"><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">can be stored and passed around like other objects.</span></div>
+<div class="txt" style="position:absolute; left:112px; top:779px;"><span id="f15" style="font-size:36px;vertical-align:baseline;color:rgba(255,130,44,1);">– </span><span id="f25" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,255,1);">命令模式通过将请求本身变成一个对象来使工具箱对象可向未指定的应用对</span></div>
+<div class="txt" style="position:absolute; left:148px; top:820px;"><span id="f25" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,255,1);">象提出请求。这个对象可被存储并像其他的对象一样被传递。</span></div>
+</body>
+</html>

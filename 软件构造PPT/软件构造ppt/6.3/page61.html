@@ -1,0 +1,68 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">
+.txt { white-space:nowrap; }
+#f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f15 { font-family:sans-serif; font-weight:bold; font-style:normal; }
+#f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f38 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f39 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f40 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f41 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f42 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f43 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f44 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+</style>
+</head>
+<body>
+<img id="background" style="position:absolute; left:0px; top:0px;" width="1440" height="1080" src="page61.png">
+<div class="txt" style="position:absolute; left:33px; top:107px;"><span id="f8" style="font-size:60px;vertical-align:baseline;color:rgba(0,0,0,1);">Memento Pattern</span></div>
+<div class="txt" style="position:absolute; left:651px; top:18px;"><span id="f8" style="font-size:31px;vertical-align:baseline;color:rgba(0,0,0,1);">6.3 Maintainability-Oriented Construction Techniques</span></div>
+<div class="txt" style="position:absolute; left:76px; top:247px;"><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(255,130,44,1);">▪ </span><span id="f15" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">Intent</span></div>
+<div class="txt" style="position:absolute; left:112px; top:314px;"><span id="f17" style="font-size:36px;vertical-align:baseline;color:rgba(255,130,44,1);">– </span><span id="f19" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">Without violating encapsulation, capture and externalize an object‘s</span></div>
+<div class="txt" style="position:absolute; left:148px; top:353px;"><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">internal state so that the object can be returned to this state later.</span><span id="f23" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,255,1);">在不破坏</span></div>
+<div class="txt" style="position:absolute; left:148px; top:399px;"><span id="f23" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,255,1);">封装性的前提下，捕获一个对象的内部状态，并在该对象之外保存这个状</span></div>
+<div class="txt" style="position:absolute; left:148px; top:440px;"><span id="f23" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,255,1);">态。需要的时候，可以恢复到保存的状态。</span></div>
+<div class="txt" style="position:absolute; left:112px; top:504px;"><span id="f17" style="font-size:36px;vertical-align:baseline;color:rgba(255,130,44,1);">– </span><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">A magic cookie that encapsulates a "check point" capability.</span></div>
+<div class="txt" style="position:absolute; left:112px; top:564px;"><span id="f17" style="font-size:36px;vertical-align:baseline;color:rgba(255,130,44,1);">– </span><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">Promote </span><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(255,0,0,1);">undo </span><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">or </span><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(255,0,0,1);">rollback </span><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">to full object status.</span></div>
+<div class="txt" style="position:absolute; left:76px; top:630px;"><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(255,130,44,1);">▪ </span><span id="f15" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">Problem to solve</span></div>
+<div class="txt" style="position:absolute; left:112px; top:697px;"><span id="f17" style="font-size:36px;vertical-align:baseline;color:rgba(255,130,44,1);">– </span><span id="f19" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">Need to restore an object back to its previous state (e.g. “undo” or</span></div>
+<div class="txt" style="position:absolute; left:148px; top:736px;"><span id="f19" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">“rollback” operations). </span><span id="f23" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,255,1);">需要恢复对象到之前的状态</span></div>
+</body>
+</html>

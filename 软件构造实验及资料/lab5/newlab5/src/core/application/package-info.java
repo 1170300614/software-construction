@@ -1,0 +1,4 @@
+/**
+ * Applications.
+ */
+package core.application;

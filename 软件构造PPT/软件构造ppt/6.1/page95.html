@@ -1,0 +1,105 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">
+.txt { white-space:nowrap; }
+#f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f12 { font-family:sans-serif; font-weight:normal; font-style:italic; }
+#f13 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f22 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+</style>
+</head>
+<body>
+<img id="background" style="position:absolute; left:0px; top:0px;" width="1440" height="1080" src="page95.png">
+<div class="txt" style="position:absolute; left:583px; top:18px;"><span id="f8" style="font-size:31px;vertical-align:baseline;color:rgba(0,0,0,1);">6.1 Metrics and Construction Principles for Maintainability</span></div>
+<div class="txt" style="position:absolute; left:33px; top:107px;"><span id="f8" style="font-size:60px;vertical-align:baseline;color:rgba(0,0,0,1);">System events and Allocating system operations</span></div>
+<div class="txt" style="position:absolute; left:99px; top:306px;"><span id="f16" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">System Sequence Diagram</span></div>
+<div class="txt" style="position:absolute; left:108px; top:476px;"><span id="f11" style="font-size:13px;vertical-align:baseline;color:rgba(0,0,0,1);">: Cashier</span></div>
+<div class="txt" style="position:absolute; left:227px; top:419px;"><span id="f12" style="font-size:13px;vertical-align:baseline;color:rgba(0,0,0,1);">Process Sale Scenario</span></div>
+<div class="txt" style="position:absolute; left:260px; top:508px;"><span id="f11" style="font-size:13px;vertical-align:baseline;color:rgba(0,0,0,1);">makeNewSale()</span></div>
+<div class="txt" style="position:absolute; left:230px; top:562px;"><span id="f11" style="font-size:13px;vertical-align:baseline;color:rgba(0,0,0,1);">enterItem(itemID, quantity )</span></div>
+<div class="txt" style="position:absolute; left:258px; top:609px;"><span id="f11" style="font-size:13px;vertical-align:baseline;color:rgba(0,0,0,1);">description, total</span></div>
+<div class="txt" style="position:absolute; left:266px; top:636px;"><span id="f11" style="font-size:13px;vertical-align:baseline;color:rgba(0,0,0,1);">* [more items]</span></div>
+<div class="txt" style="position:absolute; left:279px; top:684px;"><span id="f11" style="font-size:13px;vertical-align:baseline;color:rgba(0,0,0,1);">endSale()</span></div>
+<div class="txt" style="position:absolute; left:258px; top:730px;"><span id="f11" style="font-size:13px;vertical-align:baseline;color:rgba(0,0,0,1);">total with taxes</span></div>
+<div class="txt" style="position:absolute; left:239px; top:780px;"><span id="f11" style="font-size:13px;vertical-align:baseline;color:rgba(0,0,0,1);">makePay ment(amount)</span></div>
+<div class="txt" style="position:absolute; left:248px; top:836px;"><span id="f11" style="font-size:13px;vertical-align:baseline;color:rgba(0,0,0,1);">change due, receipt</span></div>
+<div class="txt" style="position:absolute; left:459px; top:475px;"><span id="f11" style="font-size:13px;vertical-align:baseline;color:rgba(0,0,0,1);">:Sy stem</span></div>
+<div class="txt" style="position:absolute; left:677px; top:265px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">System</span></div>
+<div class="txt" style="position:absolute; left:630px; top:297px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">endSale()</span></div>
+<div class="txt" style="position:absolute; left:630px; top:314px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">enterItem()</span></div>
+<div class="txt" style="position:absolute; left:630px; top:332px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">makeNewSale()</span></div>
+<div class="txt" style="position:absolute; left:630px; top:349px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">makePayment()</span></div>
+<div class="txt" style="position:absolute; left:630px; top:384px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">makeNewReturn()</span></div>
+<div class="txt" style="position:absolute; left:630px; top:401px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">enterReturnItem()</span></div>
+<div class="txt" style="position:absolute; left:630px; top:419px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">...</span></div>
+<div class="txt" style="position:absolute; left:628px; top:510px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">system operations</span></div>
+<div class="txt" style="position:absolute; left:628px; top:527px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">discovered during system</span></div>
+<div class="txt" style="position:absolute; left:628px; top:545px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">behavior analysis</span></div>
+<div class="txt" style="position:absolute; left:677px; top:658px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">System</span></div>
+<div class="txt" style="position:absolute; left:630px; top:690px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">endSale()</span></div>
+<div class="txt" style="position:absolute; left:630px; top:707px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">enterItem()</span></div>
+<div class="txt" style="position:absolute; left:630px; top:724px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">makeNewSale()</span></div>
+<div class="txt" style="position:absolute; left:630px; top:742px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">makePayment()</span></div>
+<div class="txt" style="position:absolute; left:630px; top:776px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">enterReturnItem()</span></div>
+<div class="txt" style="position:absolute; left:630px; top:794px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">makeNewReturn()</span></div>
+<div class="txt" style="position:absolute; left:630px; top:811px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">...</span></div>
+<div class="txt" style="position:absolute; left:999px; top:265px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">Register</span></div>
+<div class="txt" style="position:absolute; left:955px; top:297px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">...</span></div>
+<div class="txt" style="position:absolute; left:955px; top:330px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">endSale()</span></div>
+<div class="txt" style="position:absolute; left:955px; top:347px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">enterItem()</span></div>
+<div class="txt" style="position:absolute; left:955px; top:364px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">makeNewSale()</span></div>
+<div class="txt" style="position:absolute; left:955px; top:382px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">makePayment()</span></div>
+<div class="txt" style="position:absolute; left:955px; top:416px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">makeNewReturn()</span></div>
+<div class="txt" style="position:absolute; left:955px; top:434px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">enterReturnItem()</span></div>
+<div class="txt" style="position:absolute; left:955px; top:451px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">...</span></div>
+<div class="txt" style="position:absolute; left:953px; top:510px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">allocation of system</span></div>
+<div class="txt" style="position:absolute; left:953px; top:527px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">operations during design,</span></div>
+<div class="txt" style="position:absolute; left:953px; top:545px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">using one facade controller</span></div>
+<div class="txt" style="position:absolute; left:1165px; top:470px;"><span id="f18" style="font-size:24px;vertical-align:baseline;color:rgba(255,0,0,1);">在设计过程中使用一个</span></div>
+<div class="txt" style="position:absolute; left:1165px; top:499px;"><span id="f18" style="font-size:24px;vertical-align:baseline;color:rgba(255,0,0,1);">外观控制器分配系统操作</span></div>
+<div class="txt" style="position:absolute; left:985px; top:641px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">ProcessSale</span></div>
+<div class="txt" style="position:absolute; left:1000px; top:658px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">Handler</span></div>
+<div class="txt" style="position:absolute; left:955px; top:690px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">...</span></div>
+<div class="txt" style="position:absolute; left:955px; top:722px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">endSale()</span></div>
+<div class="txt" style="position:absolute; left:955px; top:740px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">enterItem()</span></div>
+<div class="txt" style="position:absolute; left:955px; top:757px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">makeNewSale()</span></div>
+<div class="txt" style="position:absolute; left:955px; top:774px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">makePayment()</span></div>
+<div class="txt" style="position:absolute; left:1171px; top:641px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">HandleReturns</span></div>
+<div class="txt" style="position:absolute; left:1194px; top:658px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">Handler</span></div>
+<div class="txt" style="position:absolute; left:1149px; top:690px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">...</span></div>
+<div class="txt" style="position:absolute; left:1149px; top:722px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">enterReturnItem()</span></div>
+<div class="txt" style="position:absolute; left:1149px; top:740px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">makeNewReturn()</span></div>
+<div class="txt" style="position:absolute; left:1149px; top:757px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">...</span></div>
+<div class="txt" style="position:absolute; left:953px; top:843px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">allocation of system</span></div>
+<div class="txt" style="position:absolute; left:953px; top:860px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">operations during design,</span></div>
+<div class="txt" style="position:absolute; left:953px; top:878px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">using several use case</span></div>
+<div class="txt" style="position:absolute; left:953px; top:895px;"><span id="f16" style="font-size:14px;vertical-align:baseline;color:rgba(0,0,0,1);">controllers</span></div>
+<div class="txt" style="position:absolute; left:984px; top:948px;"><span id="f18" style="font-size:24px;vertical-align:baseline;color:rgba(255,0,0,1);">在设计过程中使用若干用例控</span></div>
+<div class="txt" style="position:absolute; left:984px; top:976px;"><span id="f18" style="font-size:24px;vertical-align:baseline;color:rgba(255,0,0,1);">制器分配系统操作</span></div>
+</body>
+</html>

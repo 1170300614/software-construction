@@ -1,0 +1,72 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">
+.txt { white-space:nowrap; }
+#f0 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f1 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f2 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f3 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f4 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f5 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f6 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f7 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f8 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f9 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f10 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f11 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f12 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f13 { font-family:sans-serif; font-weight:bold; font-style:normal; }
+#f14 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f15 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f16 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f17 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f18 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f19 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f20 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f21 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f22 { font-family:sans-serif; font-weight:bold; font-style:italic; }
+#f23 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f24 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f25 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f26 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f27 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f28 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f29 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f30 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f31 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f32 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f33 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f34 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f35 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f36 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f37 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f38 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f39 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f40 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f41 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f42 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f43 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f44 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+#f45 { font-family:sans-serif; font-weight:normal; font-style:normal; }
+</style>
+</head>
+<body>
+<img id="background" style="position:absolute; left:0px; top:0px;" width="1440" height="1080" src="page30.png">
+<div class="txt" style="position:absolute; left:804px; top:18px;"><span id="f8" style="font-size:31px;vertical-align:baseline;color:rgba(0,0,0,1);">7.3 Assertions and Defensive Programming</span></div>
+<div class="txt" style="position:absolute; left:33px; top:107px;"><span id="f8" style="font-size:60px;vertical-align:baseline;color:rgba(0,0,0,1);">Avoid putting executable code in assertions</span></div>
+<div class="txt" style="position:absolute; left:76px; top:247px;"><span id="f11" style="font-size:40px;vertical-align:baseline;color:rgba(255,130,44,1);">▪ </span><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">Since assertions may be disabled, the correctness of your program</span></div>
+<div class="txt" style="position:absolute; left:112px; top:297px;"><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">should never depend on whether or not the assertion expressions</span></div>
+<div class="txt" style="position:absolute; left:112px; top:345px;"><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">are executed. </span><span id="f18" style="font-size:31px;vertical-align:baseline;color:rgba(0,0,255,1);">断言在程序发布后，有可能被关闭，所以不要在其中写业务代码</span></div>
+<div class="txt" style="position:absolute; left:76px; top:415px;"><span id="f11" style="font-size:40px;vertical-align:baseline;color:rgba(255,130,44,1);">▪ </span><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">In particular, asserted expressions should not have </span><span id="f22" style="font-size:40px;vertical-align:baseline;color:rgba(255,0,0,1);">side-effects .</span></div>
+<div class="txt" style="position:absolute; left:112px; top:482px;"><span id="f27" style="font-size:36px;vertical-align:baseline;color:rgba(255,130,44,1);">– </span><span id="f8" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">For example, if you want to assert that an element removed from a list was</span></div>
+<div class="txt" style="position:absolute; left:148px; top:525px;"><span id="f30" style="font-size:36px;vertical-align:baseline;color:rgba(0,0,0,1);">actually found in the list, don’t write it like this:</span></div>
+<div class="txt" style="position:absolute; left:76px; top:591px;"><span id="f11" style="font-size:40px;vertical-align:baseline;color:rgba(255,130,44,1);">▪ </span><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">If assertions are disabled, the entire expression is skipped, and x is</span></div>
+<div class="txt" style="position:absolute; left:112px; top:640px;"><span id="f13" style="font-size:40px;vertical-align:baseline;color:rgba(0,0,0,1);">never removed from the list. Write it like this instead:</span></div>
+<div class="txt" style="position:absolute; left:156px; top:746px;"><span id="f37" style="font-size:21px;vertical-align:baseline;color:rgba(255,0,0,1);">// don't do this:</span></div>
+<div class="txt" style="position:absolute; left:156px; top:796px;"><span id="f37" style="font-size:21px;vertical-align:baseline;color:rgba(0,0,0,1);">assert list.remove(x);</span></div>
+<div class="txt" style="position:absolute; left:792px; top:747px;"><span id="f37" style="font-size:21px;vertical-align:baseline;color:rgba(255,0,0,1);">// do this:</span></div>
+<div class="txt" style="position:absolute; left:792px; top:797px;"><span id="f37" style="font-size:21px;vertical-align:baseline;color:rgba(0,0,0,1);">boolean found = list.remove(x);</span></div>
+<div class="txt" style="position:absolute; left:792px; top:847px;"><span id="f37" style="font-size:21px;vertical-align:baseline;color:rgba(0,0,0,1);">assert found;</span></div>
+</body>
+</html>

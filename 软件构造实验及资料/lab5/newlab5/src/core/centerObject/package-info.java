@@ -1,0 +1,4 @@
+/**
+ * Info.
+ */
+package core.centerObject;
